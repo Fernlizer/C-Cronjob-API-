@@ -1,0 +1,17 @@
+[
+  {
+    "api": "https://service.dci.dharmniti.co.th/api/v1/dcn/get/section?section_id=3&startdate=2023-11-01&enddate=2023-11-01",
+    "Bearer": "NMyqZE9T2WbJ2aLd93OcSWucLF0PcA9r",
+    "time": "16:40:00"
+  },
+  {
+    "api": "https://api.organize.dharmniti.co.th/public/images/company/avatar/ditc1629086338.png",
+    "Bearer": null,
+    "time": "16:40:03"
+  },
+  {
+    "api": "https://service.dci.dharmniti.co.th/api/v1/dcn/get/section/employee/times?emp_id=10046&startdate=2023-04-28&enddate=2023-04-28",
+    "Bearer": "NMyqZE9T2WbJ2aLd93OcSWucLF0PcA9r",
+    "time": "16:40:05"
+  }
+] 

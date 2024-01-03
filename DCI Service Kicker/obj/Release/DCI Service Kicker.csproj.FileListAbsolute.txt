@@ -1,0 +1,14 @@
+D:\c#\DCI Service Kicker\DCI Service Kicker\bin\Release\DCI Service Kicker.exe.config
+D:\c#\DCI Service Kicker\DCI Service Kicker\bin\Release\DCI Service Kicker.exe
+D:\c#\DCI Service Kicker\DCI Service Kicker\bin\Release\DCI Service Kicker.pdb
+D:\c#\DCI Service Kicker\DCI Service Kicker\bin\Release\Newtonsoft.Json.dll
+D:\c#\DCI Service Kicker\DCI Service Kicker\bin\Release\Newtonsoft.Json.xml
+D:\c#\DCI Service Kicker\DCI Service Kicker\obj\Release\DCI Service Kicker.csproj.AssemblyReference.cache
+D:\c#\DCI Service Kicker\DCI Service Kicker\obj\Release\DCI Service Kicker.csproj.SuggestedBindingRedirects.cache
+D:\c#\DCI Service Kicker\DCI Service Kicker\obj\Release\DCI_Service_Kicker.Form1.resources
+D:\c#\DCI Service Kicker\DCI Service Kicker\obj\Release\DCI_Service_Kicker.Properties.Resources.resources
+D:\c#\DCI Service Kicker\DCI Service Kicker\obj\Release\DCI Service Kicker.csproj.GenerateResource.cache
+D:\c#\DCI Service Kicker\DCI Service Kicker\obj\Release\DCI Service Kicker.csproj.CoreCompileInputs.cache
+D:\c#\DCI Service Kicker\DCI Service Kicker\obj\Release\DCI Service Kicker.csproj.CopyComplete
+D:\c#\DCI Service Kicker\DCI Service Kicker\obj\Release\DCI Service Kicker.exe
+D:\c#\DCI Service Kicker\DCI Service Kicker\obj\Release\DCI Service Kicker.pdb
